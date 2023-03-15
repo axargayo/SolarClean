@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Clean Solar Panels - Get More Efficiency</title>
+    <style>
+      /* Add some basic styles */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #008080;
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+
+      p {
+        font-size: 1.2rem;
+        line-height: 1.5;
+        margin-bottom: 1rem;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2rem;
+      }
+
+      label {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+      }
+
+      input[type="email"],
+      input[type="submit"] {
+        padding: 0.5rem 1rem;
+        font-size: 1.2rem;
+        border-radius: 5px;
+        border: none;
+        margin-bottom: 1rem;
+      }
+
+      input[type="submit"] {
+        background-color: #008080;
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #006666;
+      }
+
+      footer {
+        background-color: #ddd;
+        color: #333;
+        padding: 1rem;
+        text-align: center;
+        margin-top: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Clean Solar Panels - Get More Efficiency</h1>
+      <p>We clean your solar panels so that they're always yielding the most efficiency.</p>
+      <p>Our extra service is aerial imagery via drone that allows you to view the solar panels and check their current state.</p>
+    </header>
+
+    <div class="container">
+      <h2>Interested? Let us know!</h2>
+      <p>Leave us your email address and we'll keep you updated on our progress.</p>
+
+      <form>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <input type="submit" value="Sign Up">
+      </form>
+    </div>
+
+    <footer>
+      <p>&copy; 2023 Clean Solar Panels. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
